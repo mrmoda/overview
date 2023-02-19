@@ -9,3 +9,7 @@ body {
 canvas {
   display: block;
 }
+.logo{
+  display: block;
+  font-size:24px;color:#FF0000;
+}
